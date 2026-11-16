@@ -59,10 +59,33 @@
   .verdict { text-align: center; }
   .note { color: var(--muted); font-size: 13px; margin: 0; }
   details { margin-top: 24px; color: var(--muted); }
+  #report { white-space: pre-wrap; overflow-wrap: anywhere; padding: 0 16px; font-size: 12px; }
+  details summary { cursor: pointer; color: var(--fg); font-weight: 600; }
   details p, details li { max-width: 80ch; }
+  footer { margin-top: 32px; padding: 16px 0 0; border-top: 1px solid var(--line); color: var(--muted);
+           font-size: 13px; display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; }
+  footer .by { color: var(--fg); margin-right: auto; }
+  footer a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+  footer a:hover { color: var(--fg); }
+  footer nav { display: flex; flex-wrap: wrap; gap: 6px 14px; }
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--fg); outline-offset: 2px; }
+
+  /* Phones: each site becomes a small card: domain + result on top, the four checks labeled in a 2x2 grid. */
   @media (max-width: 760px) {
-    .row { grid-template-columns: 1fr 120px; }
-    .row .c-doh, .row .c-filt, .row .c-fetch, .row .c-img { display: none; }
+    main { padding: 16px 16px 40px; }
+    h1 { font-size: 20px; }
+    button, input, select { font-size: 16px; } /* 16px stops iOS zooming on focus */
+    .bar > input[type=text], .bar > select { flex: 1 1 100%; min-width: 0; }
+    .bar > button { flex: 1 1 auto; }
+    .row.head { display: none; }
+    .row { grid-template-columns: 1fr 1fr; gap: 4px 12px; padding: 10px 14px; }
+    .row .dom { grid-row: 1; grid-column: 1; font-size: 14px; color: var(--fg); }
+    .row .verdict { grid-row: 1; grid-column: 2; text-align: right; }
+    .row [data-label] { font-size: 12px; min-width: 0; }
+    .row [data-label]::before { content: attr(data-label); display: block; font-family: system-ui, sans-serif;
+      font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+    footer { flex-direction: column; align-items: flex-start; }
   }
 </style>
 </head>
@@ -100,6 +123,15 @@
     <p><b>Baseline.</b> <code>baseline.json</code> is made by <code>gen-baseline.mjs</code> on an unfiltered network: it finds each site's logo/icon images, keeps the ones that load in a real browser, and records their sizes. Results: <b>ALLOWED</b> means at least half of the site's images came back at the right size; <b>SUSPECT</b> means something answered but not the real images (a block page); <b>BLOCKED</b> means nothing got through; <b>UNTESTABLE</b> means it failed in the baseline too. Sites the generator found no image for (or only a single 16/32px favicon, which a filter's own icon could match) can only be checked for reachability, so an intercepted block page there looks allowed; the count is shown at the top. Without a baseline, the page falls back to <code>/favicon.ico</code>.</p>
     <p><b>Filter DNS</b> only shows what that service would answer; it can't confirm this device actually uses it. A browser can't see the device's own DNS answers at all, so on other setups a DNS block simply shows up as <b>BLOCKED</b>. Filter services that don't allow browser requests (AdGuard, OpenDNS, NextDNS) can't be used here. The setting is remembered in this browser and can be passed in the link as <code>?filter=&lt;url&gt;</code>.</p>
   </details>
+
+  <footer>
+    <span class="by">Made by Steven Crothers and Claude</span>
+    <nav aria-label="Project links">
+      <a href="https://github.com/scrothers/schoolfilter">Source on GitHub</a>
+      <a href="https://github.com/scrothers/schoolfilter/issues">Issues</a>
+      <a href="https://github.com/scrothers/schoolfilter/issues/new">Report a problem or suggest a site</a>
+    </nav>
+  </footer>
 </main>
 
 <script>
@@ -330,6 +362,11 @@ function render() {
         doh: el("div", "c-doh small mono"), filt: el("div", "c-filt small mono"),
         fetch: el("div", "c-fetch small"), img: el("div", "c-img small"), verdict: el("div", "verdict"),
       };
+      // Labels shown on phones, where the header row is hidden.
+      s.cells.doh.dataset.label = "1.1.1.1";
+      s.cells.filt.dataset.label = "Filter DNS";
+      s.cells.fetch.dataset.label = "Connect";
+      s.cells.img.dataset.label = "Images";
       r.append(el("div", "dom", s.domain), s.cells.doh, s.cells.filt, s.cells.fetch, s.cells.img, s.cells.verdict);
       sec.append(r);
       paint(s);
