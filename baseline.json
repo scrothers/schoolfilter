@@ -1,0 +1,3777 @@
+{
+ "version": 2,
+ "taken": "2026-11-16T22:40:25.179Z",
+ "generator": "gen-baseline.mjs",
+ "ua": "schoolscan-baseline/1.0 (+parental filter test; finds site logos)",
+ "sites": {
+  "www.google.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.google.com/images/branding/google_wordmark/v1/1x/googlelogo_color_white_background_272x92dp.png",
+     "w": 272,
+     "h": 92
+    },
+    {
+     "url": "https://www.google.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.google.com/images/logo.png",
+     "w": 275,
+     "h": 95
+    }
+   ]
+  },
+  "en.wikipedia.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+     "w": 160,
+     "h": 160
+    },
+    {
+     "url": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+     "w": 150,
+     "h": 150
+    },
+    {
+     "url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+     "w": 300,
+     "h": 47
+    },
+    {
+     "url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
+     "w": 300,
+     "h": 24
+    }
+   ]
+  },
+  "www.khanacademy.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.khanacademy.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+     "w": 37,
+     "h": 36
+    },
+    {
+     "url": "https://www.khanacademy.org/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "www.bing.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.bing.com/apple-touch-icon.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://www.bing.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "www.pbs.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.pbs.org/favicons/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.pbs.org/favicons/favicon.svg",
+     "w": 150,
+     "h": 150
+    },
+    {
+     "url": "https://www.pbs.org/favicons/favicon-180x180.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.pbs.org/favicons/favicon-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://www.pbs.org/favicons/favicon-512x512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "www.nasa.gov": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-57x57.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-60x60.png",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-72x72.png",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-76x76.png",
+     "w": 76,
+     "h": 76
+    },
+    {
+     "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-114x114.png",
+     "w": 114,
+     "h": 114
+    }
+   ]
+  },
+  "classroom.google.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "docs.google.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://docs.google.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "pornhub.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.pornhub.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.pornhub.com/apple-touch-icon.png",
+     "w": 72,
+     "h": 72
+    }
+   ]
+  },
+  "xvideos.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.xvideos.com/safari-pinned-tab.svg",
+     "w": 150,
+     "h": 150
+    },
+    {
+     "url": "https://www.xvideos.com/android-chrome-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://www.xvideos.com/android-chrome-512x512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://www.xvideos.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.xvideos.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "xhamster.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://xhamster.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "xnxx.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.xnxx.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.xnxx.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.xnxx.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.xnxx.com/safari-pinned-tab.svg",
+     "w": 693,
+     "h": 693
+    },
+    {
+     "url": "https://www.xnxx.com/android-chrome-192x192.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "redtube.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.redtube.com/pwaIcons/pwa36x36.png",
+     "w": 36,
+     "h": 36
+    },
+    {
+     "url": "https://www.redtube.com/pwaIcons/pwa48x48.png",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.redtube.com/pwaIcons/pwa57x57.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://www.redtube.com/pwaIcons/pwa60x60.png",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://www.redtube.com/pwaIcons/pwa70x70.png",
+     "w": 70,
+     "h": 70
+    }
+   ]
+  },
+  "youporn.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.youporn.com/youporn/favicon.ico?v=202509",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.youporn.com/favicon.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "spankbang.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "eporner.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://static-ca-cdn.eporner.com/favicon.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://static-ca-cdn.eporner.com/new/logo.svg",
+     "w": 300,
+     "h": 100
+    },
+    {
+     "url": "https://static-ca-cdn.eporner.com/cpp/b/38a77aa456fc813af07bb428f2363c8d.jpg",
+     "w": 200,
+     "h": 200
+    },
+    {
+     "url": "https://static-ca-cdn.eporner.com/cpp/b/ef575e8837d065a1683c022d2077d342.jpg",
+     "w": 130,
+     "h": 130
+    },
+    {
+     "url": "https://static-ca-cdn.eporner.com/cpp/b/6dd4e10e3296fa63738371ec0d5df818.jpg",
+     "w": 250,
+     "h": 250
+    }
+   ]
+  },
+  "tube8.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.tube8.com/tube8/favicon.ico?v=202509",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://www.tube8.com/favicon.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "motherless.com": {
+   "gone": true,
+   "fetchOk": false,
+   "images": []
+  },
+  "brazzers.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.brazzers.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "playboy.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.playboy.com/wp-content/uploads/2024/07/cropped-playboy-rh-icon-sq-100x100.png",
+     "w": 100,
+     "h": 100
+    },
+    {
+     "url": "https://www.playboy.com/wp-content/uploads/2024/07/cropped-playboy-rh-icon-sq-300x300.png",
+     "w": 300,
+     "h": 300
+    }
+   ]
+  },
+  "onlyfans.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://static2.onlyfans.com/static/prod/f/202611161401-d3a3dc4dda/icons/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://static2.onlyfans.com/static/prod/f/202611161401-d3a3dc4dda/icons/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://static2.onlyfans.com/static/prod/f/202611161401-d3a3dc4dda/icons/android-chrome-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://static2.onlyfans.com/static/prod/f/202611161401-d3a3dc4dda/icons/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://static2.onlyfans.com/static/prod/f/202611161401-d3a3dc4dda/icons/safari-pinned-tab.svg",
+     "w": 683,
+     "h": 683
+    }
+   ]
+  },
+  "fansly.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://fansly.com/assets/images/icons/apple-touch-icon.png?v=12",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://fansly.com/assets/images/icons/favicon-32x32.png?v=12",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://fansly.com/assets/images/icons/favicon-16x16.png?v=12",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://fansly.com/assets/images/icons/safari-pinned-tab.svg?v=12",
+     "w": 240,
+     "h": 240
+    },
+    {
+     "url": "https://fansly.com/assets/images/icons/favicon.ico?v=12",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "manyvids.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://logos.manyvids.com/icon_public/favicon-16x16.png?v=4",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://logos.manyvids.com/icon_public/favicon-32x32.png?v=4",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://logos.manyvids.com/icon_public/apple-touch-icon.png?v=4",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "chaturbate.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://chaturbate.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "stripchat.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://stripchat.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://stripchat.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "bongacams.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "livejasmin.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.livejasmin.com/favicon.ico?v=2",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "cam4.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://static.cam4.com/web/v2/app/phoenix/assets/static/media/favicon.4b69a998.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://static.cam4.com/web/v2/app/phoenix/assets/static/media/favicon-128.46408da5.png",
+     "w": 128,
+     "h": 128
+    },
+    {
+     "url": "https://static.cam4.com/web/v2/app/phoenix/assets/static/media/favicon-180.f7f5d2b2.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://static.cam4.com/web/v2/app/phoenix/assets/static/media/favicon-192.b77c6d8b.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://static.cam4.com/web/v2/app/phoenix/assets/static/media/favicon-512.d64f9b4e.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "rule34.xxx": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://rule34.xxx/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://rule34.xxx/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://rule34.xxx/apple-touch-icon-precomposed.png",
+     "w": 152,
+     "h": 152
+    },
+    {
+     "url": "https://rule34.xxx/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://rule34.xxx/images/logo.png",
+     "w": 135,
+     "h": 135
+    }
+   ]
+  },
+  "e-hentai.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://e-hentai.org/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://e-hentai.org/favicon.png",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "nhentai.net": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://nhentai.net/favicon.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://nhentai.net/logo.svg",
+     "w": 300,
+     "h": 141
+    }
+   ]
+  },
+  "literotica.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://speedy.literotica.com/so/assets/lit_logo_180-BlJgS0Cs.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "bet365.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "draftkings.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "fanduel.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://iwa-assets.fanduel.com/fd-iwa-assets/graphics/fd-dfs-favicon.ico",
+     "w": 321,
+     "h": 317
+    },
+    {
+     "url": "https://www.fanduel.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.fanduel.com/apple-touch-icon.png",
+     "w": 152,
+     "h": 152
+    }
+   ]
+  },
+  "betmgm.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "williamhill.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://apps.static-cs.williamhill.com/inter-splash/static/images/16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://apps.static-cs.williamhill.com/inter-splash/static/images/32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://apps.static-cs.williamhill.com/inter-splash/static/images/96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://apps.static-cs.williamhill.com/inter-splash/static/images/192x192.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "bovada.lv": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.bovada.lv/content/favicons/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.bovada.lv/content/favicons/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.bovada.lv/content/favicons/favicon-96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://www.bovada.lv/content/favicons/apple-icon-57x57.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://www.bovada.lv/content/favicons/apple-icon-60x60.png",
+     "w": 60,
+     "h": 60
+    }
+   ]
+  },
+  "betway.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://betway.com/assets/images/icons/icon-180.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://betway.com/assets/images/icons/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://betway.com/assets/images/icons/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://betway.com/assets/images/icons/icon-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://betway.com/assets/images/icons/icon-512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "betfair.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "paddypower.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "888casino.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.888casino.com/content/dam/holdings888/888casino/common/icons/Casino-favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "pokerstars.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "ggpoker.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "stake.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://stake.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://stake.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://stake.com/favicon.svg",
+     "w": 513,
+     "h": 513
+    },
+    {
+     "url": "https://stake.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://stake.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "roobet.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://roobet.com/images/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://roobet.com/images/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://roobet.com/images/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://roobet.com/images/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://roobet.com/images/android-chrome-192x192.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "rollbit.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "chumbacasino.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.chumbacasino.com/favicon.ico",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://www.chumbacasino.com/apple-touch-icon.png",
+     "w": 270,
+     "h": 270
+    },
+    {
+     "url": "https://www.chumbacasino.com/favicon.svg",
+     "w": 270,
+     "h": 270
+    }
+   ]
+  },
+  "prizepicks.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "polymarket.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://polymarket.com/icons/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://polymarket.com/icons/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://polymarket.com/icons/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://polymarket.com/icons/safari-pinned-tab.svg",
+     "w": 2912,
+     "h": 2912
+    },
+    {
+     "url": "https://polymarket.com/icons/android-chrome-192x192.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "kalshi.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://kalshi.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "csgoroll.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.csgoroll.com/assets/favicons/favicon.svg",
+     "w": 32,
+     "h": 29
+    },
+    {
+     "url": "https://sb-asset.csgoroll.com/f/290022327772222/860549c913/roll.webp",
+     "w": 128,
+     "h": 128
+    },
+    {
+     "url": "https://sb-asset.csgoroll.com/f/290022327772222/163x52/4f117ea332/csgr-logo.svg",
+     "w": 163,
+     "h": 52
+    },
+    {
+     "url": "https://sb-asset.csgoroll.com/f/290022327772222/24x24/a41b2cc803/icon-colored-flame.svg",
+     "w": 24,
+     "h": 24
+    },
+    {
+     "url": "https://sb-asset.csgoroll.com/f/290022327772222/96x97/ca80f149e5/icon-social-tiktok.png",
+     "w": 96,
+     "h": 97
+    }
+   ]
+  },
+  "csgoempire.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "hellcase.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://hellcase.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://hellcase.com/assets/images/pwa/pwa-64x64.png",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://hellcase.com/assets/images/pwa/pwa-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://hellcase.com/assets/images/pwa/pwa-512x512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://hellcase.com/assets/images/pwa/maskable-icon-512x512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "clash.gg": {
+   "fetchOk": false,
+   "images": []
+  },
+  "rbxflip.com": {
+   "gone": true,
+   "fetchOk": false,
+   "images": []
+  },
+  "bloxflip.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "kaotic.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://kaotic.com/templates/mainv2_updates/static/images/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://kaotic.com/templates/mainv2_updates/static/images/logo140.png",
+     "w": 140,
+     "h": 60
+    }
+   ]
+  },
+  "theync.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://theync.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://theync.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://theync.com/favicon.svg",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "url": "https://theync.com/logo.png",
+     "w": 229,
+     "h": 229
+    }
+   ]
+  },
+  "goregrish.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://goregrish.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://goregrish.com/apple-touch-icon.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://goregrish.com/logo.png",
+     "w": 295,
+     "h": 80
+    }
+   ]
+  },
+  "crazyshit.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://crazyshit.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "seegore.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://seegore.com/wp-content/uploads/fbrfg/apple-touch-icon.png?v=2b08m37xzp",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://seegore.com/wp-content/uploads/fbrfg/favicon-32x32.png?v=2b08m37xzp",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://seegore.com/wp-content/uploads/fbrfg/favicon-16x16.png?v=2b08m37xzp",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://seegore.com/wp-content/uploads/fbrfg/safari-pinned-tab.svg?v=2b08m37xzp",
+     "w": 1440,
+     "h": 1440
+    },
+    {
+     "url": "https://seegore.com/wp-content/uploads/fbrfg/favicon.ico?v=2b08m37xzp",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "documentingreality.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://www.documentingreality.com/forum/apple-touch-icon.png",
+     "w": 100,
+     "h": 100
+    },
+    {
+     "url": "https://www.documentingreality.com/forum/images/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.documentingreality.com/forum/images/Logo-480-3.webp",
+     "w": 480,
+     "h": 97
+    },
+    {
+     "url": "https://www.documentingreality.com/forum/gfx/statusicon/forum_old.gif",
+     "w": 44,
+     "h": 43
+    }
+   ]
+  },
+  "sanctioned-suicide.net": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://sanctioned-suicide.net/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "leafly.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://public.leafly.com/favicon/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://public.leafly.com/favicon/favicon-167x167.png",
+     "w": 167,
+     "h": 167
+    },
+    {
+     "url": "https://public.leafly.com/favicon/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://public.leafly.com/favicon/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://public.leafly.com/favicon/favicon-48x48.png",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "weedmaps.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://weedmaps.com/images/wdc-static/wm-icon-180x180.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://weedmaps.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://weedmaps.com/static/images/wm-icon-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://weedmaps.com/static/images/wm-icon-512x512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://weedmaps.com/images/brands/000/012/045/avatar/1790099154-avatar.jpg?fit=crop&auto=format&w=212&ar=1%3A1",
+     "w": 212,
+     "h": 212
+    }
+   ]
+  },
+  "erowid.org": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://erowid.org/images/logo_erowid_med.jpg",
+     "w": 128,
+     "h": 128
+    },
+    {
+     "url": "https://erowid.org/donations/images/logo_bitcoin_small.png",
+     "w": 27,
+     "h": 27
+    },
+    {
+     "url": "https://erowid.org/images/logo_twitter_sm.png",
+     "w": 24,
+     "h": 24
+    },
+    {
+     "url": "https://erowid.org/favicon.ico",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://erowid.org/apple-touch-icon.png",
+     "w": 144,
+     "h": 144
+    }
+   ]
+  },
+  "psychonautwiki.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://psychonautwiki.org/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://psychonautwiki.org/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://psychonautwiki.org/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://psychonautwiki.org/safari-pinned-tab.svg",
+     "w": 1112,
+     "h": 1112
+    },
+    {
+     "url": "https://psychonautwiki.org/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "bluelight.org": {
+   "fetchOk": true,
+   "images": []
+  },
+  "shroomery.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://shroomery.org/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.shroomery.org/images/logo.png",
+     "w": 640,
+     "h": 640
+    },
+    {
+     "url": "https://shroomery.org/apple-touch-icon-precomposed.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://shroomery.org/images/logo.png",
+     "w": 640,
+     "h": 640
+    }
+   ]
+  },
+  "hightimes.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://hightimes.com/wp-content/uploads/2025/07/cropped-FAVICON-1.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://hightimes.com/wp-content/uploads/2025/07/cropped-FAVICON-1-1-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://hightimes.com/wp-content/uploads/2025/07/cropped-FAVICON-1-1-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://hightimes.com/wp-content/uploads/2025/07/cropped-FAVICON-1-1-180x180.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://hightimes.com/wp-content/uploads/2025/07/600x155-ht-logo.jpg",
+     "w": 600,
+     "h": 155
+    }
+   ]
+  },
+  "growweedeasy.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.growweedeasy.com/wp-content/uploads/2018/03/favicon-grow-weed-easy-1.png",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://www.growweedeasy.com/wp-content/themes/growweedeasy/images/logo.png",
+     "w": 718,
+     "h": 142
+    }
+   ]
+  },
+  "drizly.com": {
+   "gone": true,
+   "fetchOk": false,
+   "images": []
+  },
+  "totalwine.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.totalwine.com/_ui/desktop/twm/images/favicon/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.totalwine.com/apple-touch-icon.png",
+     "w": 100,
+     "h": 100
+    }
+   ]
+  },
+  "juul.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "elementvape.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "vaporfi.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://www.vaporfi.com/media/18/68/4d/1740739283/favicon%20(2).ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.vaporfi.com/media/e3/2a/f2/1746725331/Vaporfi-Logo.webp",
+     "w": 763,
+     "h": 209
+    }
+   ]
+  },
+  "gunbroker.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "armslist.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "budsgunshop.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.budsgunshop.com/static/favicon-96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://www.budsgunshop.com/static/favicon.svg",
+     "w": 49,
+     "h": 49
+    },
+    {
+     "url": "https://www.budsgunshop.com/static/favicon.ico",
+     "w": 209,
+     "h": 209
+    },
+    {
+     "url": "https://www.budsgunshop.com/static/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.budsgunshop.com/static/web-app-manifest-192x192.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "palmettostatearmory.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "cheaperthandirt.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://cdn.cheaperthandirt.com/skin/frontend/cheaperthandirt/default/images/favicon/favicon-48x48.png",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://cdn.cheaperthandirt.com/skin/frontend/cheaperthandirt/default/images/favicon/favicon-96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://cdn.cheaperthandirt.com/skin/frontend/cheaperthandirt/default/images/favicon/favicon-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://cdn.cheaperthandirt.com/skin/frontend/cheaperthandirt/default/images/favicon/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://cdn.cheaperthandirt.com/skin/frontend/cheaperthandirt/default/images/components/blocks/layout/header/logo/ctd-logo-mobile-v2.svg",
+     "w": 300,
+     "h": 100
+    }
+   ]
+  },
+  "defcad.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://defcad.com/favicon.svg",
+     "w": 133,
+     "h": 124
+    },
+    {
+     "url": "https://defcad.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://defcad.com/api/images/preview?src=https%3A%2F%2Fmedia.defcad.com%2Fprofile%2Fdefcad-favicon-white-c675f12a.png&width=64",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://defcad.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "stormfront.org": {
+   "fetchOk": false,
+   "images": []
+  },
+  "kiwifarms.net": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://kiwifarms.net/favicon.ico",
+     "w": 96,
+     "h": 96
+    }
+   ]
+  },
+  "gab.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "bitchute.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.bitchute.com/static/icons/favicon-128x128.png",
+     "w": 128,
+     "h": 128
+    },
+    {
+     "url": "https://www.bitchute.com/static/icons/favicon-96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://www.bitchute.com/static/icons/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.bitchute.com/static/icons/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://bcfiles.bitchute.com/img/icons/favicon144x144.svg",
+     "w": 150,
+     "h": 150
+    }
+   ]
+  },
+  "tinder.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://tinder.com/static/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://tinder.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://tinder.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://tinder.com/static/android-chrome-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://tinder.com/static/android-chrome-512x512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "bumble.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://bumble.com/bumble-brand-assets/favicon/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://bumble.com/bumble-brand-assets/favicon/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://bumble.com/bumble-brand-assets/favicon/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://bumble.com/bumble-brand-assets/favicon/safari-pinned-tab.svg",
+     "w": 598,
+     "h": 598
+    },
+    {
+     "url": "https://bumble.com/bumble-brand-assets/favicon/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "hinge.co": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://hinge.co/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://hinge.co/images/icons-36.png",
+     "w": 36,
+     "h": 36
+    },
+    {
+     "url": "https://hinge.co/images/icons-48.png",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://hinge.co/images/icons-72.png",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://hinge.co/images/icons-96.png",
+     "w": 96,
+     "h": 96
+    }
+   ]
+  },
+  "match.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "okcupid.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "pof.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.pof.com/favicon-32x32.png?v=daa399e3ddb5a84013a65d2271840a68",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.pof.com/src/images/favicon-48x48.png?v=daa399e3ddb5a84013a65d2271840a68",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.pof.com/src/images/favicon-72x72.png?v=daa399e3ddb5a84013a65d2271840a68",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://www.pof.com/src/images/favicon-96x96.png?v=daa399e3ddb5a84013a65d2271840a68",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://www.pof.com/src/images/favicon-144x144.png?v=daa399e3ddb5a84013a65d2271840a68",
+     "w": 144,
+     "h": 144
+    }
+   ]
+  },
+  "grindr.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "feeld.co": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://feeld.co/favicons/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://feeld.co/favicons/favicon.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://feeld.co/favicons/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "seeking.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "ashleymadison.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://lander-cdn.ashleymadison.com/private/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "adultfriendfinder.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "ome.tv": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://ome.tv/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://ome.tv/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://ome.tv/favicon-32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://ome.tv/favicon-16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://ome.tv/safari-pinned-tab.svg",
+     "w": 933,
+     "h": 933
+    }
+   ]
+  },
+  "chatroulette.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://chatroulette.com/favicon/apple-touch-icon.webp",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://chatroulette.com/favicon/favicon-32x32.webp",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://chatroulette.com/favicon/favicon-16x16.webp",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://chatroulette.com/favicon/safari-pinned-tab.svg",
+     "w": 824,
+     "h": 824
+    },
+    {
+     "url": "https://chatroulette.com/favicon/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "emeraldchat.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://emeraldchat.com/AppLogo.png",
+     "w": 230,
+     "h": 230
+    },
+    {
+     "url": "https://emeraldchat.com/images/hp/logo7.svg",
+     "w": 150,
+     "h": 150
+    },
+    {
+     "url": "https://emeraldchat.com/images/png/footer-logo.png",
+     "w": 167,
+     "h": 38
+    }
+   ]
+  },
+  "chatrandom.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://chatrandom.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://chatrandom.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://chatrandom.com/favicon.png",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "monkey.app": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://data.monkey.app/web-cdn/neo/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://data.monkey.app/web/114.png",
+     "w": 114,
+     "h": 114
+    },
+    {
+     "url": "https://data.monkey.app/web/57.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://data.monkey.app/web/72.png",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://www.monkey.app/pwa/48.png",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "uhmegle.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://uhmegle.com/favicon-96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://uhmegle.com/favicon.svg",
+     "w": 1024,
+     "h": 1024
+    },
+    {
+     "url": "https://uhmegle.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://uhmegle.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://uhmegle.com/web-app-manifest-192x192.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "camsurf.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://camsurf.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://camsurf.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://camsurf.com/favicon.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://camsurf.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://camsurf.com/images/logo.png",
+     "w": 294,
+     "h": 58
+    }
+   ]
+  },
+  "thundr.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://thundr.com/logo.svg",
+     "w": 800,
+     "h": 800
+    },
+    {
+     "url": "https://thundr.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://thundr.com/icon-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://thundr.com/icon-512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://thundr.com/favicon.ico",
+     "w": 500,
+     "h": 500
+    }
+   ]
+  },
+  "croxyproxy.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://cdn.croxyproxy.com/favicon.png",
+     "w": 256,
+     "h": 256
+    },
+    {
+     "url": "https://cdn.croxyproxy.com/images/logo.png",
+     "w": 700,
+     "h": 138
+    },
+    {
+     "url": "https://www.croxyproxy.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://cdn.croxyproxy.com/favicon-apple.png",
+     "w": 256,
+     "h": 256
+    }
+   ]
+  },
+  "proxysite.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://www.proxysite.com/apple-touch-icon-57x57.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://www.proxysite.com/apple-touch-icon-60x60.png",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://www.proxysite.com/apple-touch-icon-72x72.png",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://www.proxysite.com/apple-touch-icon-76x76.png",
+     "w": 76,
+     "h": 76
+    },
+    {
+     "url": "https://www.proxysite.com/apple-touch-icon-114x114.png",
+     "w": 114,
+     "h": 114
+    }
+   ]
+  },
+  "hidester.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "kproxy.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "proxyium.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://proxyium.com/assets/img/favicon.ico?v=4",
+     "w": 256,
+     "h": 256
+    },
+    {
+     "url": "https://proxyium.com/assets/img/logo-light.png",
+     "w": 700,
+     "h": 121
+    },
+    {
+     "url": "https://proxyium.com/assets/img/logo-dark.png",
+     "w": 700,
+     "h": 121
+    }
+   ]
+  },
+  "blockaway.net": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://cdn.blockaway.net/favicon-ba.png",
+     "w": 256,
+     "h": 255
+    },
+    {
+     "url": "https://cdn.blockaway.net/favicon-ba-apple.png",
+     "w": 256,
+     "h": 256
+    },
+    {
+     "url": "https://cdn.blockaway.net/images/logo-ba.png",
+     "w": 700,
+     "h": 453
+    },
+    {
+     "url": "https://www.blockaway.net/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.blockaway.net/images/logo.png",
+     "w": 700,
+     "h": 138
+    }
+   ]
+  },
+  "hide.me": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://hide.me/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://hide.me/favicon.svg",
+     "w": 150,
+     "h": 150
+    },
+    {
+     "url": "https://hide.me/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://hide.me/static/images/layout/logo-hideme-XwV-88e.svg",
+     "w": 102,
+     "h": 35
+    },
+    {
+     "url": "https://hide.me/static/images/spots/security-q2bE1sa.svg",
+     "w": 33,
+     "h": 46
+    }
+   ]
+  },
+  "www.torproject.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.torproject.org/static/images/favicon/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.torproject.org/static/images/favicon/favicon.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.torproject.org/static/images/tor-logo@2x.png?h=244cd4ae",
+     "w": 172,
+     "h": 100
+    }
+   ]
+  },
+  "psiphon.ca": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://psiphon.ca/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://psiphon.ca/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "ultrasurf.us": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://ultrasurf.us/images/Ultrasurf-Logo-36dpi.png",
+     "w": 277,
+     "h": 63
+    },
+    {
+     "url": "https://ultrasurf.us/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://ultrasurf.us/images/logo.png",
+     "w": 289,
+     "h": 106
+    }
+   ]
+  },
+  "nordvpn.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "expressvpn.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.expressvpn.com/wp-ws-cache/themes/expressvpn/assets/images/favicon/apple-touch-icon.png?v=137054",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://www.expressvpn.com/wp-ws-cache/themes/expressvpn/assets/images/favicon/touch-icon-ipad.png?v=137054",
+     "w": 76,
+     "h": 76
+    },
+    {
+     "url": "https://www.expressvpn.com/wp-ws-cache/themes/expressvpn/assets/images/favicon/touch-icon-ipad-retina.png?v=137054",
+     "w": 152,
+     "h": 152
+    },
+    {
+     "url": "https://www.expressvpn.com/wp-ws-cache/themes/expressvpn/assets/images/favicon/favicon-32x32.png?v=137054",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.expressvpn.com/wp-ws-cache/themes/expressvpn/assets/images/favicon/favicon-16x16.png?v=137054",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "protonvpn.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://protonvpn.com/favicons/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://protonvpn.com/favicons/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://protonvpn.com/favicons/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://protonvpn.com/favicons/safari-pinned-tab.svg",
+     "w": 933,
+     "h": 933
+    },
+    {
+     "url": "https://protonvpn.com/favicons/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "surfshark.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://surfshark.com/website/_next/public/global/favicon-32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://surfshark.com/website/_next/public/global/favicon-48.png",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://surfshark.com/website/_next/public/global/favicon-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://surfshark.com/website/_next/public/global/favicon-180.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://surfshark.com/website/_next/image?url=/website/_next/public/home/images/one-app/devices-lifestyle.png&w=2560&q=75",
+     "w": 1136,
+     "h": 1288
+    }
+   ]
+  },
+  "windscribe.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://windscribe.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://windscribe.com/images/windscribe-logo-full.svg",
+     "w": 126,
+     "h": 20
+    },
+    {
+     "url": "https://windscribe.com/images/homepage/why-windscribe/boot-icon.svg",
+     "w": 56,
+     "h": 56
+    },
+    {
+     "url": "https://windscribe.com/images/homepage/why-windscribe/ghost-icon.svg",
+     "w": 57,
+     "h": 56
+    },
+    {
+     "url": "https://windscribe.com/images/default-social-proof-awards/google-play.png",
+     "w": 337,
+     "h": 360
+    }
+   ]
+  },
+  "mullvad.net": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://mullvad.net/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://mullvad.net/favicon.svg",
+     "w": 254,
+     "h": 254
+    },
+    {
+     "url": "https://mullvad.net/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://mullvad.net/images/android-chrome-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://mullvad.net/images/android-chrome-512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "tunnelbear.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.tunnelbear.com/apple-touch-icon-57x57.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://www.tunnelbear.com/apple-touch-icon-60x60.png",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://www.tunnelbear.com/apple-touch-icon-72x72.png",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://www.tunnelbear.com/apple-touch-icon-76x76.png",
+     "w": 76,
+     "h": 76
+    },
+    {
+     "url": "https://www.tunnelbear.com/apple-touch-icon-114x114.png",
+     "w": 114,
+     "h": 114
+    }
+   ]
+  },
+  "one.one.one.one": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://one.one.one.one/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "dns.google": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://dns.google/static/93dd5954/favicon.png",
+     "w": 128,
+     "h": 128
+    }
+   ]
+  },
+  "cloudflare-dns.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://cloudflare-dns.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "dns.quad9.net": {
+   "fetchOk": true,
+   "images": []
+  },
+  "dns.nextdns.io": {
+   "fetchOk": true,
+   "images": []
+  },
+  "dns.adguard-dns.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://dns.adguard-dns.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "thepiratebay.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://thepiratebay.org/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "1337x.to": {
+   "fetchOk": false,
+   "images": []
+  },
+  "yts.mx": {
+   "gone": true,
+   "fetchOk": false,
+   "images": []
+  },
+  "nyaa.si": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://nyaa.si/static/favicon.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://nyaa.si/static/pinned-tab.svg",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://nyaa.si/static/img/icons/nyaa/1_2.png",
+     "w": 80,
+     "h": 28
+    },
+    {
+     "url": "https://nyaa.si/static/img/icons/nyaa/1_3.png",
+     "w": 80,
+     "h": 28
+    },
+    {
+     "url": "https://nyaa.si/static/img/icons/nyaa/4_4.png",
+     "w": 80,
+     "h": 28
+    }
+   ]
+  },
+  "fitgirl-repacks.site": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-32x32.jpg",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-180x180.jpg",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://fitgirl-repacks.site/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "annas-archive.org": {
+   "gone": true,
+   "fetchOk": false,
+   "images": []
+  },
+  "libgen.is": {
+   "fetchOk": false,
+   "images": []
+  },
+  "hianime.to": {
+   "fetchOk": false,
+   "images": []
+  },
+  "9animetv.to": {
+   "fetchOk": false,
+   "images": []
+  },
+  "exploit-db.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.exploit-db.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.exploit-db.com/images/spider-orange-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://www.exploit-db.com/images/spider-white-512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://www.exploit-db.com/images/edb-logo.png",
+     "w": 300,
+     "h": 90
+    },
+    {
+     "url": "https://www.exploit-db.com/images/offsec-logo.png",
+     "w": 300,
+     "h": 72
+    }
+   ]
+  },
+  "hackforums.net": {
+   "fetchOk": true,
+   "images": []
+  },
+  "unknowncheats.me": {
+   "fetchOk": false,
+   "images": []
+  },
+  "nulled.to": {
+   "gone": true,
+   "fetchOk": false,
+   "images": []
+  },
+  "4chan.org": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://4chan.org/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "8kun.top": {
+   "fetchOk": true,
+   "images": []
+  },
+  "reddit.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.reddit.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.reddit.com/apple-touch-icon.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://www.reddit.com/apple-touch-icon-precomposed.png",
+     "w": 128,
+     "h": 128
+    }
+   ]
+  },
+  "9gag.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://9gag.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://9gag.com/apple-touch-icon.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "ifunny.co": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://ifunny.co/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://ifunny.co/favicon.svg",
+     "w": 140,
+     "h": 140
+    },
+    {
+     "url": "https://ifunny.co/favicon-180.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://ifunny.co/favicon-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://ifunny.co/favicon-512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "tumblr.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://assets.tumblr.com/pop/manifest/favicon-0e3d244a.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://assets.tumblr.com/pop/manifest/favicon-cfddd25f.svg",
+     "w": 128,
+     "h": 128
+    },
+    {
+     "url": "https://assets.tumblr.com/pop/manifest/safari-pinned-tab-ad5440dd.svg",
+     "w": 933,
+     "h": 933
+    },
+    {
+     "url": "https://assets.tumblr.com/pop/manifest/apple-touch-icon-f8ea2554.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://assets.tumblr.com/pop/manifest/icon_72-5073ca87.png",
+     "w": 72,
+     "h": 72
+    }
+   ]
+  },
+  "tiktok.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.tiktok.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.tiktok.com/apple-touch-icon.png",
+     "w": 400,
+     "h": 400
+    }
+   ]
+  },
+  "instagram.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "snapchat.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.snapchat.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.snapchat.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.snapchat.com/favicon.png",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://www.snapchat.com/apple-touch-icon-precomposed.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "facebook.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.facebook.com/favicon.ico",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://www.facebook.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "x.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://x.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "threads.net": {
+   "fetchOk": true,
+   "images": []
+  },
+  "bsky.app": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://web-cdn.bsky.app/static/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://web-cdn.bsky.app/static/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://web-cdn.bsky.app/static/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://web-cdn.bsky.app/static/safari-pinned-tab.svg",
+     "w": 683,
+     "h": 683
+    }
+   ]
+  },
+  "pinterest.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.pinterest.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "bereal.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "yubo.live": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://www.yubo.live/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.yubo.live/assets/img/logo.svg",
+     "w": 160,
+     "h": 70
+    },
+    {
+     "url": "https://www.yubo.live/assets/rebrand/home/yubo-logo.svg",
+     "w": 157,
+     "h": 69
+    },
+    {
+     "url": "https://www.yubo.live/assets/rebrand/home/social/Instagram.svg",
+     "w": 51,
+     "h": 50
+    },
+    {
+     "url": "https://www.yubo.live/assets/rebrand/home/social/x.svg",
+     "w": 50,
+     "h": 50
+    }
+   ]
+  },
+  "discord.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "web.whatsapp.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "telegram.org": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://telegram.org/img/website_icon.svg?4",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://telegram.org/img/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://telegram.org/img/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://telegram.org/img/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://telegram.org/img/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "kik.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://kik.com/static/img/favicon.png",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://kik.com/static/img/kik-logo.svg",
+     "w": 65,
+     "h": 33
+    },
+    {
+     "url": "https://kik.com/static/img/app-icon.svg",
+     "w": 201,
+     "h": 200
+    },
+    {
+     "url": "https://kik.com/static/img/medialab-logo.svg",
+     "w": 260,
+     "h": 90
+    }
+   ]
+  },
+  "ngl.link": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://ngl.link/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://ngl.link/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://ngl.link/images/logo.png",
+     "w": 822,
+     "h": 460
+    }
+   ]
+  },
+  "tellonym.me": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www2.tellonym.me/assets/img/icon120x120.png",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "url": "https://www2.tellonym.me/assets/img/icon152x152.png",
+     "w": 152,
+     "h": 152
+    },
+    {
+     "url": "https://www2.tellonym.me/assets/img/icon167x167.png",
+     "w": 167,
+     "h": 167
+    },
+    {
+     "url": "https://www2.tellonym.me/assets/img/icon180x180.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www2.tellonym.me/assets/img/icon16x16.png",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "roblox.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.roblox.com/favicon.ico",
+     "w": 64,
+     "h": 64
+    }
+   ]
+  },
+  "store.steampowered.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://store.steampowered.com/favicon.ico",
+     "w": 256,
+     "h": 256
+    },
+    {
+     "url": "https://store.steampowered.com/apple-touch-icon.png",
+     "w": 114,
+     "h": 114
+    }
+   ]
+  },
+  "epicgames.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "fortnite.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "minecraft.net": {
+   "fetchOk": false,
+   "images": []
+  },
+  "now.gg": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://cdn.now.gg/apps-content/common/img/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://cdn.now.gg/apps-content/common/img/favicon-32.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://cdn.now.gg/apps-content/common/img/favicon-96.ico",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://cdn.now.gg/apps-content/common/img/favicon-192.ico",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://now.gg/1/_next/static/media/nowgg-logo.2eda3eaf.svg",
+     "w": 165,
+     "h": 50
+    }
+   ]
+  },
+  "itch.io": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://itch.io/static/images/itchio-square-144.png",
+     "w": 144,
+     "h": 144
+    },
+    {
+     "url": "https://static.itch.io/images/logo-black-new.svg",
+     "w": 775,
+     "h": 199
+    },
+    {
+     "url": "https://static.itch.io/images/itchio-textless-black.svg",
+     "w": 262,
+     "h": 235
+    },
+    {
+     "url": "https://itch.io/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "chess.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.chess.com/bundles/web/favicons/safari-pinned-tab.1bf62bbf.svg",
+     "w": 100,
+     "h": 150
+    },
+    {
+     "url": "https://www.chess.com/bundles/web/favicons/apple-touch-icon.7aaa2d1f.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.chess.com/bundles/web/favicons/favicon-32x32.adae7142.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.chess.com/bundles/web/favicons/favicon.5d6cb047.svg",
+     "w": 150,
+     "h": 150
+    }
+   ]
+  },
+  "poki.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://poki.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://poki.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://poki.com/favicon.svg",
+     "w": 164,
+     "h": 164
+    },
+    {
+     "url": "https://poki.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://poki.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "coolmathgames.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.coolmathgames.com/pwa/images/icon-512x512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://www.coolmathgames.com/favicon.ico",
+     "w": 256,
+     "h": 256
+    },
+    {
+     "url": "https://www.coolmathgames.com/logo.webp",
+     "w": 136,
+     "h": 84
+    },
+    {
+     "url": "https://www.coolmathgames.com/sites/default/files/menu_icons/Trivia.svg",
+     "w": 500,
+     "h": 500
+    },
+    {
+     "url": "https://www.coolmathgames.com/assets/images/nav_icon/icon_profile.svg",
+     "w": 19,
+     "h": 19
+    }
+   ]
+  },
+  "crazygames.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://imgs.crazygames.com/crazygames/favicon-2026/apple-touch-icon.png?metadata=none&quality=60&width=120&height=120&fit=crop&format=png&resizer=covers",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "url": "https://imgs.crazygames.com/crazygames/favicon-2026/apple-touch-icon.png?metadata=none&quality=60&width=152&height=152&fit=crop&format=png&resizer=covers",
+     "w": 160,
+     "h": 160
+    },
+    {
+     "url": "https://imgs.crazygames.com/crazygames/favicon-2026/apple-touch-icon.png?metadata=none&quality=60&width=167&height=167&fit=crop&format=png&resizer=covers",
+     "w": 176,
+     "h": 176
+    },
+    {
+     "url": "https://imgs.crazygames.com/crazygames/favicon-2026/apple-touch-icon.png?metadata=none&quality=60&width=180&height=180&fit=crop&format=png&resizer=covers",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://imgs.crazygames.com/crazygames/favicon-2026/safari-pinned-tab.svg?resizer=covers",
+     "w": 80,
+     "h": 80
+    }
+   ]
+  },
+  "friv.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.friv.com/z/assets/img/frivIcon.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.friv.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.friv.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.friv.com/favicon-large.png",
+     "w": 300,
+     "h": 300
+    },
+    {
+     "url": "https://www.friv.com/favicon.svg",
+     "w": 150,
+     "h": 150
+    }
+   ]
+  },
+  "miniclip.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://miniclip.com/favicon/apple-touch-icon.png",
+     "w": 152,
+     "h": 152
+    },
+    {
+     "url": "https://miniclip.com/favicon/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://miniclip.com/favicon/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://miniclip.com/favicon/safari-pinned-tab.svg",
+     "w": 224,
+     "h": 224
+    },
+    {
+     "url": "https://miniclip.com/favicon/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "y8.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://img.y8.com/assets/y8/favicon-32ba556e0026f47b8a6774c589575902155c4469a8116a68880669d1a5bedd0d.ico",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://img.y8.com/mobile_launch_icons/y8-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://www.y8.com/mobile_launch_icons/y8-144.png",
+     "w": 144,
+     "h": 144
+    },
+    {
+     "url": "https://www.y8.com/mobile_launch_icons/y8-512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://img.y8.com/assets/svg/logo-text/logo-text-original-1d076f13578f69d78c2d37b05b244c75606498ce843a6e0b67eeece9757e6580.svg",
+     "w": 80,
+     "h": 28
+    }
+   ]
+  },
+  "kongregate.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.kongregate.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.kongregate.com/icon.svg",
+     "w": 90,
+     "h": 90
+    },
+    {
+     "url": "https://www.kongregate.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.kongregate.com/icon-192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://www.kongregate.com/icon-512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "armorgames.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://armorgames.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://armorgames.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://armorgames.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://armorgames.com/safari-pinned-tab.svg",
+     "w": 652,
+     "h": 652
+    },
+    {
+     "url": "https://armorgames.com/images/ag3/logo.svg",
+     "w": 271,
+     "h": 56
+    }
+   ]
+  },
+  "slither.io": {
+   "fetchOk": true,
+   "images": []
+  },
+  "krunker.io": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://krunker.io/img/favicon.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://krunker.io/img/pwa/icon60x60.png",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://krunker.io/img/pwa/icon76x76.png",
+     "w": 76,
+     "h": 76
+    },
+    {
+     "url": "https://krunker.io/img/pwa/icon120x120.png",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "url": "https://krunker.io/img/pwa/icon196x196.png",
+     "w": 196,
+     "h": 196
+    }
+   ]
+  },
+  "youtube.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.youtube.com/s/desktop/bf021a32/img/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.youtube.com/s/desktop/bf021a32/img/favicon_32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.youtube.com/s/desktop/bf021a32/img/favicon_96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://www.youtube.com/s/desktop/bf021a32/img/favicon_144x144.png",
+     "w": 144,
+     "h": 144
+    },
+    {
+     "url": "https://www.youtube.com/favicon.ico",
+     "w": 16,
+     "h": 16
+    }
+   ]
+  },
+  "twitch.tv": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://assets.twitch.tv/assets/favicon-32-5c61aa63605bca4f740d.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://assets.twitch.tv/assets/favicon-16-24c010b0dab5e56aef81.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://www.twitch.tv/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.twitch.tv/favicon.ico",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "kick.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://kick.com/favicon.ico?favicon.1782phf7eyk2q.ico?dpl=d26374f0",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://kick.com/apple-icon.png?apple-icon.0ldhg5ovdrppx.png?dpl=d26374f0",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://static.kick.com/kick-logo-k.svg",
+     "w": 26,
+     "h": 26
+    },
+    {
+     "url": "https://static.kick.com/kick-logo.svg",
+     "w": 300,
+     "h": 100
+    },
+    {
+     "url": "https://files.kick.com/images/user/65925652/profile_image/conversion/5057613e-10e7-4dc1-b645-ff17a6ed2b89-medium.webp",
+     "w": 150,
+     "h": 150
+    }
+   ]
+  },
+  "rumble.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://rumble.com/favicon.ico",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://rumble.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "dailymotion.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-precomposed.12ce02f3a914dc2f3d6d.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-57x57.18f5cfd87ae2cf11d6b0.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-60x60.831b96ed0a8eca7f6539.png",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-72x72.3c13dbe62fbf78d6f2fe.png",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-76x76.f998340625d3027babd4.png",
+     "w": 76,
+     "h": 76
+    }
+   ]
+  },
+  "vimeo.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://vimeo.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "netflix.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.netflix.com/favicon.ico",
+     "w": 64,
+     "h": 64
+    }
+   ]
+  },
+  "hulu.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.hulu.com/static/icons/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://img3.hulu.com/user/v3/artwork/2662d112-7114-4c6b-96fd-cb9e68a27eee?base_image_bucket_name=image_manager&base_image=019ffc25-8d6a-77cc-a94e-46cab69d81a0&operations=%5B%7B%22resize%22:%22100x100%7Cmax%22%7D,%7B%22format%22:%22webp%22%7D%5D",
+     "w": 100,
+     "h": 100
+    },
+    {
+     "url": "https://www.hulu.com/static/hitch/static/icons/Pricing_Checkmark_black.svg",
+     "w": 21,
+     "h": 16
+    },
+    {
+     "url": "https://www.hulu.com/static/hitch/static/icons/Pricing_Checkmark_green-light.svg",
+     "w": 22,
+     "h": 17
+    },
+    {
+     "url": "https://www.hulu.com/static/hitch/static/icons/Info_Icon_White.svg",
+     "w": 14,
+     "h": 14
+    }
+   ]
+  },
+  "disneyplus.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://www.disneyplus.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://www.disneyplus.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://www.disneyplus.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    }
+   ]
+  },
+  "crunchyroll.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://crunchyroll.com/build/assets/img/pwa/v2/512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://crunchyroll.com/build/assets/img/pwa/v2/512-maskable.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "spotify.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://open.spotify.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://spotify.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://spotify.com/apple-touch-icon.png",
+     "w": 57,
+     "h": 57
+    },
+    {
+     "url": "https://spotify.com/favicon.png",
+     "w": 128,
+     "h": 128
+    }
+   ]
+  },
+  "soundcloud.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://soundcloud.com/pwa-round-icon-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://soundcloud.com/pwa-round-icon-512x512.png",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://soundcloud.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://soundcloud.com/images/logo.png",
+     "w": 82,
+     "h": 44
+    },
+    {
+     "url": "https://soundcloud.com/pwa-icon-192.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "chatgpt.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://chatgpt.com/unauth-mweb/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://chatgpt.com/unauth-mweb/images/favicon.svg",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://chatgpt.com/unauth-mweb/images/chatgpt-icon-72x72.png",
+     "w": 72,
+     "h": 72
+    },
+    {
+     "url": "https://chatgpt.com/unauth-mweb/images/chatgpt-icon-96x96.png",
+     "w": 96,
+     "h": 96
+    },
+    {
+     "url": "https://chatgpt.com/unauth-mweb/images/chatgpt-icon-144x144.png",
+     "w": 144,
+     "h": 144
+    }
+   ]
+  },
+  "gemini.google.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "claude.ai": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://claude.ai/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://claude.ai/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "perplexity.ai": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://www.perplexity.ai/favicon.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://perplexity.ai/favicon.png",
+     "w": 192,
+     "h": 192
+    }
+   ]
+  },
+  "grok.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://grok.com/images/favicon.svg",
+     "w": 512,
+     "h": 512
+    },
+    {
+     "url": "https://grok.com/images/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://grok.com/images/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://grok.com/images/android-chrome-monochrome-192x192.png",
+     "w": 192,
+     "h": 192
+    },
+    {
+     "url": "https://grok.com/images/android-chrome-monochrome-512x512.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "deepseek.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://deepseek.com/favicon.ico",
+     "w": 225,
+     "h": 225
+    }
+   ]
+  },
+  "poe.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://poe.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://poe.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://poe.com/favicon.svg",
+     "w": 256,
+     "h": 256
+    }
+   ]
+  },
+  "character.ai": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://character.ai/favicon.ico",
+     "w": 256,
+     "h": 256
+    },
+    {
+     "url": "https://character.ai/apple-touch-icon.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "janitorai.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "replika.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://replika.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://replika.com/apple-icon.png?58c5aabf1e3f85c0",
+     "w": 180,
+     "h": 180
+    }
+   ]
+  },
+  "talkie-ai.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "chegg.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://cdn.web.chegg.com/static/favicon-s.svg",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://marketing-assets.chegg.com/ZYPTD8JS/at/k7rpb5jc8tjsbbrcbrk4w4v/MKTG-2497-SOHP-Carpathia-BTS-Rush-study_icon_illo-desktop.png?auto=webp&fit=bounds&optimize=high",
+     "w": 77,
+     "h": 77
+    },
+    {
+     "url": "https://www.chegg.com/favicon.ico",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://marketing-assets.chegg.com/ZYPTD8JS/at/vg65tpx2w7ggc6t484j7cfb/MKTG-2497-SOHP-Carpathia-BTS-Rush-internship_icon_illo-desktop.png?auto=webp&fit=bounds&optimize=high",
+     "w": 77,
+     "h": 77
+    }
+   ]
+  },
+  "coursehero.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://www.coursehero.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "brainly.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://brainly.com/favicon.ico",
+     "w": 64,
+     "h": 64
+    },
+    {
+     "url": "https://brainly.com/apple-touch-icon.png",
+     "w": 100,
+     "h": 100
+    }
+   ]
+  },
+  "quizlet.com": {
+   "fetchOk": false,
+   "images": []
+  },
+  "photomath.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://photomath.com/apple-touch-icon.png",
+     "w": 180,
+     "h": 180
+    },
+    {
+     "url": "https://photomath.com/favicon-32x32.png",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://photomath.com/favicon-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://photomath.com/android-chrome-144x144.png",
+     "w": 144,
+     "h": 144
+    },
+    {
+     "url": "https://photomath.com/favicon.ico",
+     "w": 48,
+     "h": 48
+    }
+   ]
+  },
+  "gauthmath.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "coinbase.com": {
+   "fetchOk": false,
+   "images": [
+    {
+     "url": "https://www.coinbase.com/favicon.ico",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://www.coinbase.com/apple-touch-icon.png",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "binance.com": {
+   "fetchOk": true,
+   "images": []
+  },
+  "kraken.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://assets-cms.kraken.com/files/51n36hrp/facade/12abbf65966782e8a892b6b10565e5e8a6060da8.ico",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "url": "https://assets-cms.kraken.com/images/51n36hrp/facade/fb86af2991b03527d71fa951c1b11c2329abca90-16x16.png",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "url": "https://assets-cms.kraken.com/images/51n36hrp/facade/9474a9e3b5bffed0320adc2f5bdd46d424b8a8ab-360x360.png",
+     "w": 360,
+     "h": 360
+    },
+    {
+     "url": "https://assets-cms.kraken.com/images/51n36hrp/facade/ee9507855699894eeabab829aef8e2bc5cc37d4a-120x120.svg",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "url": "https://assets.kraken.com/marketing/kds/flags-circle/US.svg",
+     "w": 512,
+     "h": 512
+    }
+   ]
+  },
+  "robinhood.com": {
+   "fetchOk": true,
+   "images": [
+    {
+     "url": "https://robinhood.com/us/en/rh_favicon_32.png?v=2024",
+     "w": 32,
+     "h": 32
+    },
+    {
+     "url": "https://robinhood.com/us/en/rh_favicon_60.png?v=2024",
+     "w": 60,
+     "h": 60
+    },
+    {
+     "url": "https://robinhood.com/us/en/rh_favicon_76.png?v=2024",
+     "w": 76,
+     "h": 76
+    },
+    {
+     "url": "https://robinhood.com/us/en/rh_favicon_120.png?v=2024",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "url": "https://robinhood.com/us/en/rh_favicon_152.png?v=2024",
+     "w": 152,
+     "h": 152
+    }
+   ]
+  },
+  "pump.fun": {
+   "fetchOk": false,
+   "images": []
+  }
+ }
+}
